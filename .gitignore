@@ -1,0 +1,7 @@
+.venv
+build
+firday.spec
+dist
+*.exe
+dist/
+build/
